@@ -1,4 +1,4 @@
-title: test123
-description: Course description goes here.
-programming_language: python
-from: python-base-prod:v1.0.2
+title: ""
+description: "Course description goes here."
+programming_language: "python"
+from: "python-base-prod:v1.0.2"
